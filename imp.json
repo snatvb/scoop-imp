@@ -5,13 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/snatvb/imp/releases/download/v0.1.0/imp-0.1.0-x86_64-pc-windows-gnu.zip",
+      "url": "https://github.com/snatvb/imp/releases/download/v0.1.0/imp-0.1.0-windows-x64.zip",
       "hash": "PLACEHOLDER_WIN64_SHA256",
-      "bin": "imp.exe"
-    },
-    "arm64": {
-      "url": "https://github.com/snatvb/imp/releases/download/v0.1.0/imp-0.1.0-aarch64-pc-windows-msvc.zip",
-      "hash": "PLACEHOLDER_WIN_ARM64_SHA256",
       "bin": "imp.exe"
     }
   },
@@ -21,10 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/snatvb/imp/releases/download/v$version/imp-$version-x86_64-pc-windows-gnu.zip"
-      },
-      "arm64": {
-        "url": "https://github.com/snatvb/imp/releases/download/v$version/imp-$version-aarch64-pc-windows-msvc.zip"
+        "url": "https://github.com/snatvb/imp/releases/download/v$version/imp-$version-windows-x64.zip"
       }
     }
   }
