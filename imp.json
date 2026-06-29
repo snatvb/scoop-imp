@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "v0.1.0",
   "description": "TypeScript/JavaScript runtime — one binary, no node_modules",
   "homepage": "https://github.com/snatvb/imp",
   "license": "MIT",
   "architecture": {
     "64bit": {
       "url": "https://github.com/snatvb/imp/releases/download/v0.1.0/imp-0.1.0-windows-x64.zip",
-      "hash": "PLACEHOLDER_WIN64_SHA256",
+      "hash": "93e5cbcd9baae7feb378dd55d0da1650da57b2fb3bf1a7f65293599ac253322b",
       "bin": "imp.exe"
     }
   },
