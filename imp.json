@@ -1,5 +1,5 @@
 {
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "description": "TypeScript/JavaScript runtime — one binary, no node_modules",
   "homepage": "https://github.com/snatvb/imp",
   "license": "MIT",
